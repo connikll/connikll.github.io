@@ -87,7 +87,7 @@
 ### GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=connikll&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.denvercoder1.now.sh/api?username=connikll&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=connikll&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -95,6 +95,6 @@
 
 <p align="left">
   <a href="https://github.com/connikll/AndroidApp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=connikll&repo=AndroidApp&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
+    <img width="49%" src="https://github-readme-stats.denvercoder1.now.sh/api/pin/?username=connikll&repo=AndroidApp&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
   </a>
 </p>
