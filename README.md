@@ -8,6 +8,8 @@
 * 👥 I'm looking to collaborate on interesting projects
 * 💬 Ask me about basic programming and Android development
 
+<img width="700" height="300" alt="изображение" src="https://github.com/user-attachments/assets/6caeed49-e0aa-4444-aa25-89f938477e64" />
+
 ---
 
 ### Tech Stack & Tools
