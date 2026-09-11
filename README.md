@@ -87,18 +87,14 @@
 ### GitHub Statistics
 
 <p align="left">
-  <a href="https://github.com/connikll">
-    <img src="https://github-readme-stats.vercel.app/api?username=connikll&show_icons=true&theme=dark&bg_color=1c1917&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/connikll">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=connikll&theme=react-dark&bg_color=1c1917&hide_border=true&color=0891b2" alt="GitHub Activity Graph" width="100%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=connikll&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connikll&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <b>Top Repositories</b>
 
 <p align="left">
   <a href="https://github.com/connikll/AndroidApp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=connikll&repo=AndroidApp&theme=dark&bg_color=1c1917&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Pinned Repo" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=connikll&repo=AndroidApp&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
   </a>
 </p>
